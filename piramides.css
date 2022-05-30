@@ -1,0 +1,29 @@
+:root{
+    --cor-de-fundo:#FFF;
+    --cor-da-letra:#2c2cf4;
+    --cor-de-realce:#FFF;
+}
+@font-face {
+    font-family: Poppins-Regular;
+    src: url('../fonts/Poppins/Poppins-Regular.ttf');
+}
+@font-face {
+    font-family: Poppins-Medium;
+    src: url('../fonts/Poppins/Poppins-Medium.ttf');
+}
+@font-face {
+    font-family: Poppins-Bold;
+    src: url('../fonts/Poppins/Poppins-Bold.ttf');
+}
+@font-face {
+    font-family: Poppins-SemiBold;
+    src: url('../fonts/Poppins/Poppins-SemiBold.ttf');
+}
+p{
+    font-family: Poppins-Bold;
+    font-size: 70px;
+}
+*{
+ padding:0 auto; 
+ margin: 0;  
+}
